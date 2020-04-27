@@ -15,7 +15,7 @@ I will be utilizing datasets that look at Coronavirus statistics by state and co
 4. How many confirmed cases have resulted in deaths?
 5. What is the death ratio per country?
 
-<b> Datasets to be Used
+<b> Datasets to be Used </b>
 1. Coronavirus Numbers By State
 2. COVID-19 Cases
 3. COVID-19Surveillance_COVID-NET_Entire Network_Data
