@@ -11,9 +11,9 @@ I will be utilizing datasets that look at Coronavirus statistics by state and co
 <b> Research Questions to Answer </b>
 1. What is the hospitalization rate of COVID-19 patients?
 2. What are the statistics of confirmed COVID-19 patients?
-3. What is the correlation between medical conditions and contracting COVID-19?
-4. How many confirmed cases have resulted in deaths?
-5. What is the death ratio per country?
+3. How many COVID-19 deaths have been confirmed?
+4. What is the death ratio per country?
+5. What is the correlation between medical conditions and contracting COVID-19?
 
 <b> Datasets to be Used </b>
 1. Coronavirus Numbers By State
