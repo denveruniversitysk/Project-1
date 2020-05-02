@@ -20,7 +20,7 @@ I will be utilizing datasets that look at Coronavirus statistics by state and co
 3. covid_19_clean_complete
 4. Medical_Conditions
 
-All datasets above are in .csv format - saved under COVID-19 datasets. 
+All datasets above are in .csv format - saved under COVID19 datasets. 
 
 I will be adding to the datasets, as I'm still in the process of researching statistics.
 
